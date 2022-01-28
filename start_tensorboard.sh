@@ -1,0 +1,1 @@
+python -m tensorboard.main --logdir=D:/PycharmProjects/yuqing_event_extract/output/summary/Oct31_13-28-32
